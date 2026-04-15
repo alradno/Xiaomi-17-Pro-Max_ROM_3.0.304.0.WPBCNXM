@@ -1,0 +1,10 @@
+The following files are intentionally kept out of Git history:
+
+- super.img
+- userdata.img
+
+Reason:
+- Their sizes exceed what GitHub accepts comfortably for a normal repository
+  workflow.
+
+Keep both files locally next to the rest of this fastboot package.

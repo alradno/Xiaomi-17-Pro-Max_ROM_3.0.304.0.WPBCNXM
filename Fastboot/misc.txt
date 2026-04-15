@@ -1,0 +1,7 @@
+device=popsicle
+build_number=OS3.0.304.0.WPBCNXM
+userdata_version=20260308.0000.00
+mi_os_build_version=OS3.0.304.0.WPBCNXM
+custom_bulid_number=popsicle.cn.1.1.0086
+region=cn
+profile=w-stable
