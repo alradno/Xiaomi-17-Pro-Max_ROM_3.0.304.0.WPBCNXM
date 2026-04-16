@@ -22,3 +22,6 @@
 Fastboot/images/MODEM-FW.bin filter=lfs diff=lfs merge=lfs -text
 Fastboot/images/NON-HLOS.bin filter=lfs diff=lfs merge=lfs -text
 Fastboot/images/vm-persist.img filter=lfs diff=lfs merge=lfs -text
+
+# Split image parts are tracked as normal Git blobs and must stay binary.
+Fastboot/parts/*.part*-of-* binary

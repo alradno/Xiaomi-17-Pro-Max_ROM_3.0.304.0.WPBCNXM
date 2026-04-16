@@ -1,0 +1,548 @@
+{
+    "created_utc":  "2026-04-16T06:08:25Z",
+    "chunk_size_bytes":  104800000,
+    "files":  [
+                  {
+                      "source_name":  "super.img",
+                      "source_bytes":  10625583404,
+                      "total_parts":  102,
+                      "parts":  [
+                                    {
+                                        "name":  "super.img.part001-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part002-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part003-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part004-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part005-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part006-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part007-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part008-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part009-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part010-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part011-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part012-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part013-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part014-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part015-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part016-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part017-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part018-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part019-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part020-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part021-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part022-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part023-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part024-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part025-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part026-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part027-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part028-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part029-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part030-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part031-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part032-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part033-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part034-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part035-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part036-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part037-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part038-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part039-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part040-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part041-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part042-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part043-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part044-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part045-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part046-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part047-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part048-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part049-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part050-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part051-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part052-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part053-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part054-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part055-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part056-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part057-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part058-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part059-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part060-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part061-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part062-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part063-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part064-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part065-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part066-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part067-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part068-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part069-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part070-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part071-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part072-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part073-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part074-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part075-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part076-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part077-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part078-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part079-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part080-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part081-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part082-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part083-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part084-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part085-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part086-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part087-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part088-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part089-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part090-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part091-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part092-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part093-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part094-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part095-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part096-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part097-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part098-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part099-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part100-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part101-of-102",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "super.img.part102-of-102",
+                                        "bytes":  40783404
+                                    }
+                                ]
+                  },
+                  {
+                      "source_name":  "userdata.img",
+                      "source_bytes":  3081171892,
+                      "total_parts":  30,
+                      "parts":  [
+                                    {
+                                        "name":  "userdata.img.part001-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part002-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part003-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part004-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part005-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part006-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part007-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part008-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part009-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part010-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part011-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part012-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part013-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part014-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part015-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part016-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part017-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part018-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part019-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part020-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part021-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part022-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part023-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part024-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part025-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part026-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part027-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part028-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part029-of-030",
+                                        "bytes":  104800000
+                                    },
+                                    {
+                                        "name":  "userdata.img.part030-of-030",
+                                        "bytes":  41971892
+                                    }
+                                ]
+                  }
+              ]
+}

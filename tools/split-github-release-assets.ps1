@@ -1,6 +1,6 @@
 param(
-    [string]$OutputDir = (Join-Path (Split-Path -Parent $PSScriptRoot) "ReleaseAssets"),
-    [long]$ChunkSizeBytes = 2146435072
+    [string]$OutputDir = (Join-Path (Split-Path -Parent $PSScriptRoot) "Fastboot\parts"),
+    [long]$ChunkSizeBytes = 104800000
 )
 
 Set-StrictMode -Version Latest
@@ -150,15 +150,15 @@ $rebuildPath = Join-Path $OutputDir "rebuild-images.ps1"
 Set-Content -LiteralPath $rebuildPath -Value $rebuildScript -Encoding ascii
 
 $readme = @"
-GitHub-ready release assets
-===========================
+GitHub-ready tracked parts
+==========================
 
-These parts were generated at the largest safe size below GitHub's 2 GiB
-release-asset limit so the number of pieces stays minimal.
+These parts were generated below GitHub's normal 100 MiB file limit so they can
+live in the repository as regular Git files.
 
-Upload every file in this folder to the same GitHub Release.
+Keep every file in this folder together.
 
-To rebuild the original images after downloading all parts:
+To rebuild the original images after cloning the repository:
 
   powershell -ExecutionPolicy Bypass -File .\rebuild-images.ps1
 

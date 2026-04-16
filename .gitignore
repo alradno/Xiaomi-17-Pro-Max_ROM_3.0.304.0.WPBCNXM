@@ -2,4 +2,3 @@
 # Keep them locally next to the rest of the fastboot package.
 Fastboot/images/super.img
 Fastboot/images/userdata.img
-ReleaseAssets/
